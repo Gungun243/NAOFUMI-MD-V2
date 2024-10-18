@@ -29,7 +29,7 @@
 
 **CLICK HERE 👇 TO FORK**
 
-<a href="https://github.com/Gungun243/NAOFUMI-MD-V2/fork"><img src="https://img.shields.io/badge/FORK-KERM-black" alt="FORK NAOFUMI-MD-V2" width="100"></a>
+<a href="https://github.com/Gungun243/NAOFUMI-MD-V2/fork"><img src="https://img.shields.io/badge/FORK-SHIELD HERO-black" alt="FORK NAOFUMI-MD-V2" width="100"></a>
 
 1.𝐆𝐄𝐓 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐑𝐎𝐌 𝐒𝐄𝐑𝐕𝐄𝐑
 
